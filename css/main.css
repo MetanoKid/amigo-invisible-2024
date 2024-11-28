@@ -56,7 +56,7 @@
 #friend-alias {
 	position: absolute;
 	margin-top: 14.2em;
-	left: 8em;
+	left: 7em;
 	width: 100%;
 	text-align: center;
 	font-family: "CustomFont";
@@ -96,7 +96,7 @@
 	display: inline-block;
 	color: white;
 	filter: drop-shadow(0 5px 5px grey);
-	text-shadow: 4px 0 0 #f00, -4px 0 0 #f00, 0 4px 0 #f00, 0 -4px 0 #f00, 3px 3px #f00, -3px -3px 0 #f00, 3px -3px 0 #f00, -3px 3px 0 #f00;
+	text-shadow: 2px 0 0 #f00, -2px 0 0 #f00, 0 2px 0 #f00, 0 -2px 0 #f00, 1px 1px #f00, -1px -1px 0 #f00, 1px -1px 0 #f00, -1px 1px 0 #f00;
 	cursor: default;
 }
 
